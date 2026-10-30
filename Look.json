@@ -24,9 +24,9 @@
     "allowOffline": false
   },
   {
-            "device_id": "c9dcd99bf6f1048b",
-        "key": "1234",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false
+    "device_id": "c9dcd99bf6f1048b",
+    "key": "1234",
+    "expirydate": "15-11-2026",
+    "Allowoffline": false
   },
   ]
